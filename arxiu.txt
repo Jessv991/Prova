@@ -1,0 +1,1 @@
+[{"name":"Egor","surname":"Santamaria Rivas","phone":"696 91 92 29","direction":"C Sant Jordi ","location":"Mollerussa"},{"name":"Juith","surname":"Garcia jeje","phone":"696 92 28 41","direction":"C Sant Jordi ","location":"Lleida"}]
